@@ -1,5 +1,3 @@
-# AIDRAN
-
 ![AIDRAN](aidran-og-image.png)
 
 AIDRAN exists because artificial intelligence has generated an extraordinary amount of discourse and a weak set of systems for understanding what that discourse is actually doing.
