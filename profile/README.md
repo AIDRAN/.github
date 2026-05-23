@@ -1,6 +1,6 @@
 # AIDRAN
 
-![AIDRAN](public/images/aidran-og-image.png)
+![AIDRAN](aidran-og-image.png)
 
 AIDRAN exists because artificial intelligence has generated an extraordinary amount of discourse and a weak set of systems for understanding what that discourse is actually doing.
 
@@ -57,5 +57,13 @@ Some repositories may be public. Others may remain private. Together they reflec
 - [aidran.ai](https://aidran.ai)
 - [hello@aidran.ai](mailto:hello@aidran.ai)
 
-**AIDRAN,LLC**  
-_AI Discourse Recognition & Analysis Nexus_
+## Rights & Use
+
+Unless otherwise noted, the AIDRAN name, brand assets, editorial outputs, and platform materials are protected. All rights are reserved except where a repository-specific license states otherwise.
+
+Source code in individual repositories is governed by the license included in that repository. Public discourse cited or excerpted by AIDRAN remains the property of its original authors and publishers.
+
+Use of AIDRAN platform content, APIs, and data is subject to AIDRAN’s published terms and policies. For commercial licensing, permissions, or reuse inquiries, contact [legal@aidran.ai](mailto:legal@aidran.ai).
+
+- [Terms of Service](https://aidran.ai/terms)
+- [Privacy Policy](https://aidran.ai/privacy)
