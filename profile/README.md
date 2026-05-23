@@ -65,3 +65,7 @@ Use of AIDRAN platform content, APIs, and data is subject to AIDRAN’s publishe
 
 - [Terms of Service](https://aidran.ai/terms)
 - [Privacy Policy](https://aidran.ai/privacy)
+  
+## Trademark Notice
+
+AIDRAN™ is a trademark of AIDRAN, LLC. The AIDRAN name, logo, visual identity, and related brand assets are not licensed under the Apache License 2.0.
